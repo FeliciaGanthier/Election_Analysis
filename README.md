@@ -37,7 +37,28 @@ In the election analysis, I performed mathematical calculations as well as extra
 
 ######*Results*
 
-The analysis of the election can be seen the photo below. 
+The analysis of the election can be seen the both the list and photo below. 
+
+•	Total Number of Votes Cast: 369,711
+
+•	Total Votes for Each Candidate
+
+  -	Charles Casper Stockham: 272,892
+
+  -	Diana DeGette: 272,892
+
+  -	Raymon Anthony Doane: 11,606
+
+•	The Percentage of Total Votes for Each Candidate
+
+  -	Charles Casper Stockham: 23%
+  
+  -	Diana DeGette: 73.8%
+  
+  -	Raymon Anthony Doane: 3.1%
+  
+•	Winner of the Election Based on Popular Vote: Diana DeGette
+
 
 ![Election Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/Election%20Results.png)
 
