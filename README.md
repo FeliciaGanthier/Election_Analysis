@@ -1,6 +1,7 @@
 # **Colorado Election Analysis**
 
 ##**Overview of Project**
+
 A Colorado Board of Elections employee, Tom, requested an election audit of the results for a U.S. congressional precinct.  
 
 ###*Purpose of Analysis*
