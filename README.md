@@ -39,6 +39,8 @@ In the election analysis, I performed mathematical calculations as well as extra
 
 The analysis of the election can be seen the photo below. 
 
+![Election Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/Election%20Results.png)
+
 #######**Challenge Overview**
 
 ########**Challenge Summary**
