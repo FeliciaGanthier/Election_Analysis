@@ -87,7 +87,7 @@ In the election analysis, I performed mathematical calculations as well as extra
 
 •	**County with Highest Turnout: Denver**
 
-![Complete Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/analysis/Complete%20Results.png)
+![Complete Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/Complete%20Results.png)
 
 
 
