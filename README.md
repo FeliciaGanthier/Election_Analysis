@@ -65,7 +65,7 @@ In the election analysis, I performed mathematical calculations as well as extra
   
 •	**Winner of the Election Based on Popular Vote: Diana DeGette**
 
-![Election Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/Election%20Results.png)
+![Election Results](https://github.com/FeliciaGanthier/Election_Analysis/blob/master/Resources/Election%20Results.png)
 
 *County Results*
 
